@@ -1,3 +1,32 @@
+body {
+  background-color: lightskyblue;
+}
+
+.h5Style {
+  border: 1px solid black;
+  margin-left: 200px;
+  margin-right: 200px;
+  margin-bottom: 10px;
+  font-size: large;
+}
+
+.hrStyle {
+  margin-left: 70px;
+  margin-right: 70px;
+}
+
+.buttonStyle {
+  background-color: black;
+  color: white;
+  border-radius: 10px;
+  padding: 10px;
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  cursor: pointer; 
+
+}
+
 .App {
   text-align: center;
 }
